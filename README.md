@@ -2,7 +2,7 @@
 <h1 align="center">ScaleDiff: Scaling Difficult Problems for Advanced Mathematical Reasoning</h1>
 
 <p align="center">
-    <a href="https://arxiv.org/abs/2509.xxxxx"><img src="https://img.shields.io/badge/📄-Paper-red"></a>
+    <a href="https://arxiv.org/abs/2509.21070"><img src="https://img.shields.io/badge/📄-Paper-red"></a>
     <a href="https://github.com/QizhiPei/ScaleDiff/blob/main/LICENSE"><img src="https://img.shields.io/github/license/QizhiPei/ScaleDiff"></a>
     <a href="https://huggingface.co/collections/QizhiPei/scalediff-68a71cc18839c1cc1471187e"><img src="https://img.shields.io/badge/🤗 HuggingFace-Data & Models-green"></a>
 </p>
@@ -163,7 +163,12 @@ Many thanks to
 * [Sober-Reasoning](https://github.com/bethgelab/sober-reasoning)
 
 ## Citation
-If you find our code, model, or data are useful, please kindly cite our [paper](https://arxiv.org/abs/2509.xxxxx):
+If you find our code, model, or data are useful, please kindly cite our [paper](https://arxiv.org/abs/2509.21070):
 ```
-
+@article{scalediff,
+ title={ScaleDiff: Scaling Difficult Problems for Advanced Mathematical Reasoning}, 
+ author={Qizhi Pei and Zhuoshi Pan and Honglin Lin and Xin Gao and Yu Li and Zinan Tang and Conghui He and Rui Yan and Lijun Wu},
+ journal={arXiv preprint arXiv:2509.21070},
+ year={2025}
+}
 ```
